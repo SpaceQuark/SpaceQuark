@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: spacequarkz@gmail.com
-- 🌼 My old github is @RichieTheSnowman
+- 🌼 Previous github @RichieTheSnowman
 
 <!---
 SpaceQuark/SpaceQuark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
