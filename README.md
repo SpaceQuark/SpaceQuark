@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Richard Chen
 - 👀 I’m interested in the mathematical foundations as well as real-world applications of computer science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: spacequarkz@gmail.com
+- 🌱 I’m currently learning web development and deep learning
 - 🌼 Previous github @RichieTheSnowman
 
 <!---
