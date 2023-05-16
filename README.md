@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Chen
-- 👀 I’m interested in the mathematical foundations as well as real-world applications of computer science
+- 👀 I’m interested in the mathematical foundations and real-world applications of computer science
 - 🌱 I’m currently learning deep learning and web development
 
 <!---
